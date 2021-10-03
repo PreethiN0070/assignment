@@ -29,7 +29,7 @@
         <option>BCA</option>
         <option>MBA</option>
     </select> <br><br>
-   <label>Occupation</label>
+   <label>Occupation</label>  
    <select name="occupation">
     <option>select your Occupation</option>
     <option>Student</option>
